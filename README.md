@@ -1,41 +1,4 @@
 # text-summarizer
  Vietnamese and English Text summarizer using EnviBert and K-means
-Backend requirements:
-anyio==3.5.0
-asgiref==3.5.1
-certifi==2021.10.8
-charset-normalizer==2.0.12
-click==8.1.3
-colorama==0.4.4
-fastapi==0.77.1
-filelock==3.6.0
-h11==0.13.0
-huggingface-hub==0.6.0
-idna==3.3
-joblib==1.1.0
-nodejs==0.1.1
-npm==0.1.1
-numpy==1.22.3
-optional-django==0.1.0
-packaging==21.3
-pydantic==1.9.0
-pyparsing==3.0.9
-PyYAML==6.0
-regex==2022.4.24
-requests==2.27.1
-sacremoses==0.0.53
-scikit-learn==1.0.2
-scipy==1.8.0
-sentencepiece==0.1.96
-six==1.16.0
-sklearn==0.0
-sniffio==1.2.0
-starlette==0.19.1
-threadpoolctl==3.1.0
-tokenizers==0.12.1
-torch==1.11.0
-tqdm==4.64.0
-transformers==4.18.0
-typing_extensions==4.2.0
-urllib3==1.26.9
-uvicorn==0.17.6
+
+
